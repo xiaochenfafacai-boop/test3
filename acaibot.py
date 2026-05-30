@@ -14,12 +14,12 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # ==================== 核心配置 ====================
-TOKEN = "8109649754:AAG5lw8mwVfC3jica7QOal5Nh-q4ZgVhMmI"
+TOKEN = "8855685348:AAGdcqE2UzsF9yLJ359WvkYP_P3MONz5yMI"
 WEB_URL = "https://acai-888gh.onrender.com"
 PORT = int(os.environ.get('PORT', 8080))
 
 # 创始超级管理员账户ID（接收买家审核通知和开通按钮）
-FOUNDER_USERS = [8782394486]
+FOUNDER_USERS = [8551762310]
 
 # 销售收款与三档阶梯价格配置
 TRON_ADDRESS = "TVnjLwDrGjYVRTa1ukfoE2mFTmCxtrjoCw"
