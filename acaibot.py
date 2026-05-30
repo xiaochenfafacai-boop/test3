@@ -14,7 +14,7 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # ==================== 核心配置 ====================
-TOKEN = "8336724416:AAG0AlEHmTAQSgm6ZES-54_COTXpTMlk6c0"
+TOKEN = "8109649754:AAG5lw8mwVfC3jica7QOal5Nh-q4ZgVhMmI"
 WEB_URL = "https://acai-888gh.onrender.com"
 PORT = int(os.environ.get('PORT', 8080))
 
