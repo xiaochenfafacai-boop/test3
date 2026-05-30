@@ -19,7 +19,7 @@ WEB_URL = "https://acai-888gh.onrender.com"
 PORT = int(os.environ.get('PORT', 8080))
 
 # 创始超级管理员账户ID（接收买家审核通知和开通按钮）
-FOUNDER_USERS = [8551762310]
+FOUNDER_USERS = [8179896441]
 
 # 销售收款与三档阶梯价格配置
 TRON_ADDRESS = "TVnjLwDrGjYVRTa1ukfoE2mFTmCxtrjoCw"
